@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      3.2
 // @description  V3.2: 修复V3.1中预算采集抓成系列名称的BUG。改用更精确的CSS Class选择器 (.campaign-budget-editor-text-content)。
-// @author       Gemini
+// @author       Taoo
 // @match        *://ads.tiktok.com/*
 // @grant        GM_setValue
 // @grant        GM_getValue
